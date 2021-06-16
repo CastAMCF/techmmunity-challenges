@@ -1,0 +1,2 @@
+Crie uma função que retorne o clima de uma cidade brasileira!
+Crie uma função que receba 1 parametro, o nome de uma cidade brasileira, e retorne o clima dessa cidade baseado nessa API: https://www.weatherapi.com/.

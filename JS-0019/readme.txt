@@ -1,0 +1,2 @@
+Crie uma função que converta a idade de uma pessoa para dias!
+A função deve receber um parametro, um number que representa a idade atual da pessoa, e retornar a quatidade de dias que a pessoa viveu, contando com os anos bisextos.
